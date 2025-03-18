@@ -15,7 +15,7 @@
 - 💻 **Languages:** Python, Java, C
 
 ### 🛠️ Data Science Tools  
-- 📊 **Libraries:** Matplotlib
+- 📊 **Libraries:** Matplotlib,numpy,pandas
 
 ### 🖥️ Other Tools  
 - 🌐 **Version Control:** Git, GitHub  
